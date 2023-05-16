@@ -1,0 +1,11 @@
+partnership-plan.txt
+by Joseph Leuschen
+UWNetID: jleusche
+Student number: 2162382
+
+Assignment 2, in CSE 415, Autumn 2022.
+
+This file contains my partnership plan.
+
+
+Partner: Hritik Arasu

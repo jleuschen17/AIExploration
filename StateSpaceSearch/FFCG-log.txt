@@ -1,0 +1,26 @@
+Using default number of disks: 2
+ (To use a specific number, enter it on the command line, e.g.,
+python3 ../Int_Solv_Client.py TowersOfHanoi 3
+
+Welcome to ItrDFS
+Initial State:
+[[2, 1] ,[] ,[]]
+len(OPEN)= 1; len(CLOSED)= 0; COUNT = 0
+OPEN is now: [[2] ,[1] ,[]], [[2] ,[] ,[1]]
+len(OPEN)= 2; len(CLOSED)= 1; COUNT = 1
+OPEN is now: [[] ,[1] ,[2]], [[2] ,[] ,[1]]
+len(OPEN)= 2; len(CLOSED)= 2; COUNT = 2
+OPEN is now: [[1] ,[] ,[2]], [[] ,[] ,[2, 1]], [[2] ,[] ,[1]]
+len(OPEN)= 3; len(CLOSED)= 3; COUNT = 3
+OPEN is now: [[] ,[] ,[2, 1]], [[1] ,[2] ,[]], [[2] ,[] ,[1]]
+len(OPEN)= 3; len(CLOSED)= 4; COUNT = 4
+The Tower Transport is Triumphant!
+Solution path: 
+[[2, 1] ,[] ,[]]
+[[2] ,[1] ,[]]
+[[] ,[1] ,[2]]
+[[1] ,[] ,[2]]
+[[] ,[] ,[2, 1]]
+Length of solution path found: 4 edges
+Number of states expanded: 4
+Maximum length of the open list: 3

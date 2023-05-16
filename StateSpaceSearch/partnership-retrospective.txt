@@ -1,0 +1,12 @@
+partnership-plan.txt
+Student 1: Joseph Leuschen
+Student 1 UWNetID: jleusche
+Student 1 Student Number: 2162382
+Student 2: Hritik Arasu
+Student 2 UWNetID: harasu
+Student 2 Student Number: 1911076
+
+a) Joseph Leuschen and Hritik Arasu
+b) Both partners worked on and checked on all files
+Joseph led AStar and Hamming Heuristic
+Hritik led Manhattan and Heuristic Searches
